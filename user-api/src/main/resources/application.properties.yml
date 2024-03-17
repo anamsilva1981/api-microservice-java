@@ -1,0 +1,9 @@
+#spring.application.name=hr-system
+
+  java -jar -Dserver.port=9000 
+#server:
+#  port: ${PORT:8000}
+spring:
+  application:
+    name: user-api
+#spring: application: name: user-api
